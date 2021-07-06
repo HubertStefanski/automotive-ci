@@ -16,7 +16,7 @@
  bubblewrap-0.4.0-1
  bzip2-libs-1.0.6-26
  ca-certificates-2020.2.41-80.0
- checkpolicy-2.9-1
+ checkpolicy-2.9-1.el8
  chkconfig-1.13-2
  chrony-3.5-2
  clevis-15-1
