@@ -15,7 +15,7 @@
  brotli-1.0.6-3
  bubblewrap-0.4.0-1
  bzip2-libs-1.0.6-26
- ca-certificates-2020.2.41-80.0
+ ca-certificates-2021.2.50-82.el8
  checkpolicy-2.9-1
  chkconfig-1.13-2
  chrony-3.5-2
