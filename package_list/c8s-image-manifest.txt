@@ -6,7 +6,7 @@
  NetworkManager-wwan-1:1.30.0-7
  acl-2.2.53-1
  attr-2.4.48-3
- audit-3.0-0.17.20191104git1c2f876
+ audit-3.0-0.17.20191104git1c2f876.el8
  audit-libs-3.0-0.17.20191104git1c2f876
  basesystem-11-5
  bash-4.4.19-14
