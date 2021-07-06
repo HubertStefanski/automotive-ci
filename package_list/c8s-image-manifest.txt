@@ -12,7 +12,7 @@
  bash-4.4.19-14
  bash-completion-1:2.7-5
  bind-export-libs-32:9.11.26-3
- brotli-1.0.6-3
+ brotli-1.0.6-3.el8
  bubblewrap-0.4.0-1
  bzip2-libs-1.0.6-26
  ca-certificates-2020.2.41-80.0
